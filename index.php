@@ -39,23 +39,19 @@
 			    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 			    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
 			    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-			    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
 			  </ol>
 			  <div class="carousel-inner">
 			    <div class="carousel-item active">
-			      <img src="images/slides/01.png" class="d-block w-100 h-550" alt="Slide Image Fusion Security">
+			      <img src="images/slides/02.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
 			    </div>
 			    <div class="carousel-item">
-			      <img src="images/slides/02.png" class="d-block w-100 h-550" alt="Slide Image Fusion Security">
+			      <img src="images/slides/03.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
 			    </div>
 			    <div class="carousel-item">
-			      <img src="images/slides/03.png" class="d-block w-100 h-550" alt="Slide Image Fusion Security">
+			      <img src="images/slides/04.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
 			    </div>
 			    <div class="carousel-item">
-			      <img src="images/slides/04.png" class="d-block w-100 h-550" alt="Slide Image Fusion Security">
-			    </div>
-			    <div class="carousel-item">
-			      <img src="images/slides/05.png" class="d-block w-100 h-550" alt="Slide Image Fusion Security">
+			      <img src="images/slides/05.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
 			    </div>
 			  </div>
 			  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -78,8 +74,8 @@
    				</div>
 
    				<div class="px-lg-6">
-	   				<p class="mt-4 fs-19 font-raleway ls-05 text-justify">
-	   					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.
+	   				<p class="mt-4 fs-19 text-center font-raleway ls-05 text-justify">
+	   					Veja os nossos serviços 
 	   				</p>
    				</div>
    			</div>
@@ -96,7 +92,7 @@
    							</div>
    							<hr/>
    							<p class="font-raleway ls-05 weight-500">
-   								Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti autem, impedit corrupti quidem expedita in.
+   								Consiste em um módulo rastreador instalado no carro, cujo o GPS recebe do satélite informações de latitude, longitude e direção.
    							</p>
 
    						</div>
@@ -110,7 +106,7 @@
    							</div>
    							<hr/>
    							<p class="font-raleway ls-05 weight-500">
-   								Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti autem, impedit corrupti quidem expedita in.
+   								O rastreamento de cargas é uma ferramenta que integra o sistema de remessa de produtos com os mecanismos estratégicos de gestão de uma empresa.
    							</p>
 
    						</div>
@@ -126,7 +122,7 @@
    							</div>
    							<hr/>
    							<p class="font-raleway ls-05 weight-500">
-   								Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti autem, impedit corrupti quidem expedita in.
+   								É um sistema de monitoramento interno, realizado através de câmeras distribuídas e conectadas a um sistema central.
    							</p>
 
    						</div>
@@ -142,7 +138,7 @@
    							</div>
    							<hr/>
    							<p class="font-raleway ls-05 weight-500">
-   								Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti autem, impedit corrupti quidem expedita in.
+   								 A portaria remota é uma solução tecnológica inovadora de segurança condominial que permite o controle de acesso de visitantes à distância. 
    							</p>
 
    						</div>

@@ -7,7 +7,7 @@
 .h-min-125{min-height: 125px;}
 .h-250{height: 250px;}
 .h-min-175{min-height: 175px;}
-.h-550{height: 550px;}
+
 .h-100vh{height: 100vh;}
 .h-100px{height:100px;}
 .h-min-170px{min-height:170px;}
@@ -17,7 +17,10 @@
 .w-100px { width: 100px; }
 .w-150 { width: 150px; }
 .w-35 { width: 35px; }
-@media (min-width: 769px) { .w-md-150 { width: 150px; } }
+@media (min-width: 769px) { 
+	.h-md-550{height: 550px;}
+	.w-md-150 { width: 150px; } 
+}
 
 
 /* FONTS */
