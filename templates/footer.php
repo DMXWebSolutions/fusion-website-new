@@ -8,13 +8,13 @@
 
 				<div class="d-flex justify-content-center">
 
-					<a href="" class="text-black fs-50">
+					<a href="tel:+5521964155238" class="text-black fs-50">
 						<i class="fa fa-phone"></i>
 					</a>
-					<a href="" class="mx-5 text-black fs-50">
+					<a href="tel:+5521964155238" class="mx-5 text-black fs-50">
 						<i class="fab fa-whatsapp"></i>
 					</a>
-					<a href="" class="text-black fs-50">
+					<a href="mailto:fusionsecurityvendas@gmail.com" class="text-black fs-50">
 						<i class="fa fa-envelope"></i>
 					</a>
 
@@ -39,7 +39,7 @@
 						ESTRADA MARECHAL MIGUEL SALAZAR MENDES DE MORAES, 946 - TAQUARA
 					</p>
 
-					<a href="#" class="text-light hover-d-none weight-500">
+					<a href="tel:+5521964155238" class="text-light hover-d-none weight-500">
 						<img src="images/whatsapp.png">
 						(21) 964155238
 					</a>
