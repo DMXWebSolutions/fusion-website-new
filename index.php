@@ -74,7 +74,7 @@
    				</div>
 
    				<div class="px-lg-6">
-	   				<p class="mt-4 fs-19 text-center font-raleway ls-05 text-justify">
+	   				<p class="mt-4 fs-21 text-center font-raleway ls-05 text-justify">
 	   					Veja os nossos serviços 
 	   				</p>
    				</div>

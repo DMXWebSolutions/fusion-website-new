@@ -104,15 +104,18 @@
 
 					<div class="col-md-6 mt-3">
 
-						<address class="mb-0">
-							<i class="fa fa-map-marker-alt"></i> Lorem Ipsum Place and Street
+						<address class="mb-0 fs-18">
+							<i class="fa fa-map-marker-alt"></i> 
+							Estr. Marechal Miguel Salazar Mendes de Morais N° 946
 						</address>
 
 						<div class="d-block my-2">
-							<i class="fa fa-phone"></i>	<a href="tel:" class="text-dark">(21) 99999-9999</a>
+							<i class="fa fa-phone"></i>	
+							<a href="tel:+5521964155238" class="text-dark fs-18">(21) 96415-5238</a>
 						</div>
 						<div class="d-block">
-							<i class="fa fa-envelope"></i> <a href="mailto:" class="text-dark">company@domain.com</a>
+							<i class="fa fa-envelope"></i> 
+							<a href="mailto:" class="text-dark fs-18">fusionsecuritvendas@gmail.com</a>
 						</div>
 
 					</div>

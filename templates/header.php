@@ -38,12 +38,12 @@
             <a class="nav-link py-md-3 py-1 <?php if($_SERVER['REQUEST_URI'] == "/contact.php") { ?> active-link <?php } ?>" href="contact.php">Contato</a>
           </li>
         </ul>
-        <form class="mt-md--20">
+        <form method="POST" class="mt-md--20" action="process_login.php">
           <p class="mb-0 font-raleway weight-600 ls-05">RASTREAMENTO</p>
           <hr class="mt-0 mb-2" />
           <div class="d-md-flex">
-            <input class="form-control p-3-5 w-md-150" type="search" placeholder="Login" aria-label="Login">
-            <input class="form-control p-3-5 mx-md-1 my-1 my-md-0 w-md-150" type="password" placeholder="Senha" aria-label="Password">
+            <input name="login" class="form-control p-3-5 w-md-150" type="text" placeholder="Login" aria-label="Login">
+            <input name="password" class="form-control p-3-5 mx-md-1 my-1 my-md-0 w-md-150" type="password" placeholder="Senha" aria-label="Password">
             <button class="btn btn-warning font-raleway weight-600 ls-05 p-2-2" type="submit">Entrar</button>
           </div>
         </form>
