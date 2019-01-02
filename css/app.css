@@ -1,0 +1,62 @@
+::-webkit-scrollbar-track {background-color: #F4F4F4;}
+::-webkit-scrollbar {width: 10px;background: rgb(46,26,71);}
+::-webkit-scrollbar-thumb {background: rgba(193, 193, 193, .7);}
+
+
+.nav-link { 
+
+	color:#FFF!important; 
+	font-family:'Raleway',sans-serif;
+	font-weight:500;
+	letter-spacing: 1px;
+	font-size: 16px;
+	margin-right: 15px;
+	border-bottom: 5px solid transparent;
+}
+
+@media (min-width: 769px) { .nav-link:hover { border-bottom: 1.5px solid gold; } }
+
+.active-link { border-bottom: 1.5px solid gold; }
+
+
+.line-title {
+
+	border-color: #dbab1e!important;
+	border: 1.5px solid;
+	width:100px;
+}
+
+#wallpaper-cars {
+
+	background: url(../images/wallpaper-cars.jpg) no-repeat fixed center;
+	background-size: cover;
+	min-height: 300px;
+}
+
+
+.bg-footer { background: #848484; }
+
+
+
+.social-icons {
+    margin-right: 5%;
+}
+
+.social-icons a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    border-radius: 50%;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.social-icons a:hover { text-decoration: none; }
+
+.social-icons a i {
+    color: #918f8f;
+    font-size: 2rem;
+}
