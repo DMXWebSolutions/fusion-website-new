@@ -33,36 +33,36 @@
    <main class="pt-5">
    		
    		<section id="slides">
-			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-			  <ol class="carousel-indicators">
-			    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-			    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-			    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-			    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-			  </ol>
-			  <div class="carousel-inner">
-			    <div class="carousel-item active">
-			      <img src="images/slides/02.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
-			    </div>
-			    <div class="carousel-item">
-			      <img src="images/slides/03.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
-			    </div>
-			    <div class="carousel-item">
-			      <img src="images/slides/04.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
-			    </div>
-			    <div class="carousel-item">
-			      <img src="images/slides/05.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
-			    </div>
-			  </div>
-			  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-			    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-			    <span class="sr-only">Previous</span>
-			  </a>
-			  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-			    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-			    <span class="sr-only">Next</span>
-			  </a>
-			</div>
+  			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  			  <ol class="carousel-indicators">
+  			    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+  			    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+  			    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  			    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+  			  </ol>
+  			  <div class="carousel-inner">
+  			    <div class="carousel-item active">
+  			      <img src="images/slides/02.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
+  			    </div>
+  			    <div class="carousel-item">
+  			      <img src="images/slides/03.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
+  			    </div>
+  			    <div class="carousel-item">
+  			      <img src="images/slides/04.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
+  			    </div>
+  			    <div class="carousel-item">
+  			      <img src="images/slides/05.png" class="d-block w-100 h-md-550" alt="Slide Image Fusion Security">
+  			    </div>
+  			  </div>
+  			  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+  			    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  			    <span class="sr-only">Previous</span>
+  			  </a>
+  			  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+  			    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  			    <span class="sr-only">Next</span>
+  			  </a>
+  			</div>
    		</section>
 
    		<section id="services">
